@@ -1,0 +1,10 @@
+step1:create newfolder and html file
+step2:create new repo
+step3:source control-initialize repo
+step4:after copy the code in github
+
+git remote add origin https://github.com/KEERTHANADURAISAM/git-demo-commit.git
+git branch -M main
+git push -u origin main
+
+step5:publish the branch
